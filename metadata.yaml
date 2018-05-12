@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34756'
     url: http://www.gutenberg.org/2009/agents/34756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30688#Letters-of-a-Radio-Engineer-to-His-Son
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2009-12-16'
 gutenberg_type: Text
